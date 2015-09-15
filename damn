@@ -3,6 +3,14 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
+MarvinSantos
+marvincenteno23@gmail.com
+// fat
+f = 1;
+if (f == 1){
+	System.out.print("f é 1")
+}
+
 
 JulioCROliveira
 julio31p@hotmail.com
