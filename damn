@@ -43,10 +43,6 @@ TiagoPintoAlves
 stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
-<<<<<<< HEAD
-
-
-
 FelipeM920
 felipemoraes920@gmail.com
 //mascada infinita
@@ -55,20 +51,11 @@ while(true)
 {
 	mascada++;
 }
-=======
+
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
-<<<<<<< HEAD
+
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-=======
-=======
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-<<<<<<< HEAD
-
-=======
->>>>>>> 54d25f03499c8544ff7f14889e03bfea86accd49
->>>>>>> 56289d5f201da4e784c500e9275087b82b6f8810
->>>>>>> bb349152fb5a437a29eb6b8225889127ef84f1c7
->>>>>>> e647232327f51d14c8ee105c6614d6e711114341
