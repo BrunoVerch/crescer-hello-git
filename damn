@@ -1,17 +1,11 @@
-﻿bernardobrezende
+﻿// Instrutor Bernado
+bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
-MarvinSantos
-marvincenteno23@gmail.com
-// fat
-f = 1;
-if (f == 1){
-	System.out.print("f é 1")
-}
 
-
+// 01- Juliano Oliveira
 JulioCROliveira
 julio31p@hotmail.com
 // codigo
@@ -21,29 +15,31 @@ if (elfo.vida <= 0) {
 	System.out.println("Elfo ainda está vivo");
 }
 
+// 02 - Ester Vicensi
 estervincensi
 ester.ines@gmail.com
 system.out.println("hello world");
 
-
+// 03 - William Cardozo
 williamcardozo
 willian-cardozo@hotmail.com 
 String erro = "eita";
 System.out.println(erro);
 
+// 04 - Oseias
 OseiasODSR10
 oseias.rdgs@hotmail.com
 //string
 String string = "string";
 
-
+// 05 - Max Ribeiro
 maxrib
 maxoel.ribeiro@gmail.com
 //zás
 int c;
 for(c=0;c<8;c++){printf("pi ");}
 
-
+// 06 - Pablo Brodt
 pablobrodt
 pablobrodt@gmail.com
 //Só depois de 6 filmes
@@ -57,33 +53,32 @@ public String reduzQtdFlechas( String elfo ){
 return retorno;
 }
 
-
+// 07 - Renan Vaz
 renanpvaz
 renanp.vaz@outlook.com	
 for(int i = 0; i != 1; i++){
 System.out.println("não");
 }
 
-
+// 08 - Sergio Bernardes
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
 printf("Olá mundo");
 
-
+// 09 - Tefferson Guterres
 Tefferson
 teffersonguterres@gmail.com
 int[] a = new int[2];
 for(int i=0;i<a.lenght();i++) 
    a[i] = i/2;
 
-
+// 10 - Tiago Alves
 TiagoPintoAlves
 stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
-
-
+// 11 - Felipe Moraes
 FelipeM920
 felipemoraes920@gmail.com
 //mascada infinita
@@ -93,18 +88,17 @@ while(true)
 	mascada++;
 }
 
-
+// 12 - Iago Lorensini
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
 
-
-
+// 13 - William Werlang
 WillianWerlang	
 willian_werlang@live.com
 alert("Algo Errado Não Está Certo.");
 
-
+// 14 - Bruno Verch
 BrunoVerch
 bruno_verch@hotmail.com
 int crescer=1;
@@ -112,14 +106,14 @@ if(crescer == 1){
 System.out.println("Parabéns a todos!");
 }
 
-
+// 15 - Angelo Viana
 angeloViana
 angelojunior50@yahoo.com.br
 if(error == true){
 System.out.println("You Shall not pass")
 }
 
-
+// 16 - Daniele Paz
 danielempaz
 daniele.m.paz@outlook.com
 int animo = 1;
@@ -129,55 +123,42 @@ if(animo > 0){
 	System.out.println("tchau");
 }
 
-ericgottschalk
-ericng04@hotmail.com
-while(true) { int *pInt = (int*)malloc(sizeof(int)); }
-
+// 17 - Marcos Koch
 marcoskoch
 marcos_koch@hotmail.com	
+
 echo ("tendel");
 
+echo ("tendel");
 
+// 18 - Diogo Reis
 dodireis
 diogokings@gmail.com
 //Felipe Smith
 public String nome;
 nome = "Felipe Smith";
 
-
+// 19 - Gustavo Borba
 gustavorborba
 gustavorobaski@hotmail.com
 cout<<"Hello World";
 
-
+// 20 - William Cardozo
 williamcardozo
 willian-cardozo@hotmail.com 
 String erro = "eita";
 System.out.println(erro);
 
-OseiasODSR10
-oseias.rdgs@hotmail.com
-//string
-String string = "string";
+// 21 - Marvin Santos
+MarvinSantos
+marvincenteno23@gmail.com
+// fat
+f = 1;
+if (f == 1){
+	System.out.print("f é 1")
+}
 
-maxrib
-maxoel.ribeiro@gmail.com
-//zás
-int c;
-for(c=0;c<8;c++){printf("pi ");}
-
-
-
-
-
-sergiobernardesjr
-sergio.bernardes@hotmail.com.br	
-printf C
-printf("Olá mundo");
-
-Tefferson
-teffersonguterres@gmail.com
-int[] a = new int[2];
-for(int i=0;i<a.lenght();i++) 
-   a[i] = i/2;
-
+// 22 - Emmanoel
+emmanoelf
+emmanoel_95@hotmail.com
+System.out.println("Crescer 2/2015");
