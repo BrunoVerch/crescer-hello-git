@@ -3,6 +3,7 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
+
 danielempaz
 daniele.m.paz@outlook.com
 int animo = 1;
@@ -11,3 +12,28 @@ if(animo > 0){
 }else 
 	System.out.println("tchau");
 }
+
+
+pablobrodt
+pablobrodt@gmail.com
+//Só depois de 6 filmes
+public String reduzQtdFlechas( String elfo ){
+	String retorno;
+	if ( elfo.equals( "Legolas" ) ){		
+		retorno = "Não foi possível reduzir as flechas de Legolas";
+	}else{
+		retorno = "As flechas foram reduzidas";
+	}
+return retorno;
+}
+
+
+sergiobernardesjr
+sergio.bernardes@hotmail.com.br	
+printf C
+printf("Olá mundo");
+
+TiagoPintoAlves
+stvtiago@gmail.com
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
