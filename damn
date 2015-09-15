@@ -21,15 +21,6 @@ maxoel.ribeiro@gmail.com
 int c;
 for(c=0;c<8;c++){printf("pi ");}
 
-danielempaz
-daniele.m.paz@outlook.com
-int animo = 1;
-if(animo > 0){
-	System.out.println("oi");
-}else 
-	System.out.println("tchau");
-}
-
 
 pablobrodt
 pablobrodt@gmail.com
@@ -116,4 +107,14 @@ angelojunior50@yahoo.com.br
 if(error == true){
 System.out.println("You Shall not pass")
 }
+
+danielempaz
+daniele.m.paz@outlook.com
+int animo = 1;
+if(animo > 0){
+	System.out.println("oi");
+}else 
+	System.out.println("tchau");
+}
+
 
