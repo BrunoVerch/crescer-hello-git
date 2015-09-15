@@ -3,9 +3,6 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
-estervincensi
-ester.ines@gmail.com
-system.out.println("Hello world!");
 
 
 williamcardozo
@@ -17,7 +14,6 @@ OseiasODSR10
 oseias.rdgs@hotmail.com
 //string
 String string = "string";
-
 
 maxrib
 maxoel.ribeiro@gmail.com
@@ -61,11 +57,6 @@ stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 
-
-iagodahlem
-iagodahlemlorensini@gmail.com
-document.write('Hello Crescer');
-
 FelipeM920
 felipemoraes920@gmail.com
 //mascada infinita
@@ -74,6 +65,10 @@ while(true)
 {
 	mascada++;
 }
+
+iagodahlem
+iagodahlemlorensini@gmail.com
+document.write('Hello Crescer');
 
 
 WillianWerlang	
@@ -86,4 +81,3 @@ int crescer=1;
 if(crescer == 1){
 System.out.println("Parabéns a todos!");
 }
-
