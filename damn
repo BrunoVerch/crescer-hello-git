@@ -3,7 +3,9 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
-
+estervincensi
+ester.ines@gmail.com
+system.out.println("hello world");
 
 
 williamcardozo
@@ -101,6 +103,7 @@ if(crescer == 1){
 System.out.println("Parabéns a todos!");
 }
 
+<<<<<<< HEAD
 
 
 
@@ -113,3 +116,14 @@ if (f == 1){
 	System.out.print("f é 1")
 }
 
+=======
+angeloViana
+angelojunior50@yahoo.com.br
+if(error == true){
+System.out.println("You Shall not pass")
+}
+
+marcoskoch
+marcos_koch@hotmail.com	
+echo ("tendel");
+>>>>>>> ec57f02568a994898a0f9011934d530fca4ed0ff
