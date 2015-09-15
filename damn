@@ -162,3 +162,8 @@ if (f == 1){
 emmanoelf
 emmanoel_95@hotmail.com
 System.out.println("Crescer 2/2015");
+
+//23 - ERIC 
+ericgottschalk
+ericng04@hotmail.com
+while(true) { int *pInt = (int*)malloc(sizeof(int)); }
