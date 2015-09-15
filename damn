@@ -38,6 +38,7 @@ maxoel.ribeiro@gmail.com
 int c;
 for(c=0;c<8;c++){printf("pi ");}
 
+
 pablobrodt
 pablobrodt@gmail.com
 //Só depois de 6 filmes
@@ -71,6 +72,20 @@ for(int i=0;i<a.lenght();i++)
 
 TiagoPintoAlves
 stvtiago@gmail.com
+<<<<<<< HEAD
+=======
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
+>>>>>>> c0dab9c3784f16308decbbe2c7619a6ef47d86c6
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 FelipeM920
@@ -87,6 +102,17 @@ iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
 
 
+<<<<<<< HEAD
+=======
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
+>>>>>>> c0dab9c3784f16308decbbe2c7619a6ef47d86c6
 WillianWerlang	
 willian_werlang@live.com
 alert("Algo Errado Não Está Certo.");
@@ -98,6 +124,7 @@ if(crescer == 1){
 System.out.println("Parabéns a todos!");
 }
 
+
 angeloViana
 angelojunior50@yahoo.com.br
 if(error == true){
@@ -105,6 +132,23 @@ System.out.println("You Shall not pass")
 }
 
 
+danielempaz
+daniele.m.paz@outlook.com
+int animo = 1;
+if(animo > 0){
+	System.out.println("oi");
+}else 
+	System.out.println("tchau");
+}
+
+
+
 marcoskoch
 marcos_koch@hotmail.com	
+<<<<<<< HEAD
 echo ("tendel");
+=======
+echo ("tendel");
+
+
+>>>>>>> c0dab9c3784f16308decbbe2c7619a6ef47d86c6
