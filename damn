@@ -1,4 +1,9 @@
-bernardobrezende
+﻿bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
+
+OseiasODSR10
+oseias.rdgs@hotmail.com
+//string
+String string = "string";
