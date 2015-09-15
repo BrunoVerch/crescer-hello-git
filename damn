@@ -4,6 +4,12 @@ bernardobrezende@gmail.com
 console.log(new Array() == false);
 
 
+
+williamcardozo
+willian-cardozo@hotmail.com 
+String erro = "eita";
+System.out.println(erro);
+
 OseiasODSR10
 oseias.rdgs@hotmail.com
 //string
@@ -34,6 +40,7 @@ for(int i = 0; i != 1; i++){
 System.out.println("não");
 }
 
+
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
@@ -59,8 +66,12 @@ while(true)
 	mascada++;
 }
 
-
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
+
+
+WillianWerlang	
+willian_werlang@live.com
+alert("Algo Errado Não Está Certo.");
 
