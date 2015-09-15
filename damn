@@ -16,3 +16,14 @@ public String reduzQtdFlechas( String elfo ){
 	}
 return retorno;
 }
+
+
+sergiobernardesjr
+sergio.bernardes@hotmail.com.br	
+printf C
+printf("Olá mundo");
+
+TiagoPintoAlves
+stvtiago@gmail.com
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+>>>>>>> 2a566ced58b0b4ee8542b65ba6816c3e5b742fe3
