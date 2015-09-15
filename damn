@@ -7,6 +7,12 @@ estervincensi
 ester.ines@gmail.com
 system.out.println("Hello world!");
 
+
+williamcardozo
+willian-cardozo@hotmail.com 
+String erro = "eita";
+System.out.println(erro);
+
 OseiasODSR10
 oseias.rdgs@hotmail.com
 //string
@@ -38,6 +44,7 @@ for(int i = 0; i != 1; i++){
 System.out.println("não");
 }
 
+
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
@@ -68,3 +75,7 @@ while(true)
 	mascada++;
 }
 
+
+WillianWerlang	
+willian_werlang@live.com
+alert("Algo Errado Não Está Certo.");
