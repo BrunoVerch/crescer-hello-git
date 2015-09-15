@@ -4,6 +4,7 @@ bernardobrezende@gmail.com
 console.log(new Array() == false);
 
 
+
 JulioCROliveira
 julio31p@hotmail.com
 // codigo
@@ -13,6 +14,11 @@ if (elfo.vida <= 0) {
 	System.out.println("Elfo ainda está vivo");
 }
 
+
+
+estervincensi
+ester.ines@gmail.com
+system.out.println("hello world");
 
 
 williamcardozo
@@ -103,4 +109,9 @@ angelojunior50@yahoo.com.br
 if(error == true){
 System.out.println("You Shall not pass")
 }
+
+
+marcoskoch
+marcos_koch@hotmail.com	
+echo ("tendel");
 
