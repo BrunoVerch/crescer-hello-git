@@ -3,6 +3,19 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
+
+
+JulioCROliveira
+julio31p@hotmail.com
+// codigo
+if (elfo.vida <= 0) {
+	System.out.println("Elfo está morto");
+} else {
+	System.out.println("Elfo ainda está vivo");
+}
+
+
+
 estervincensi
 ester.ines@gmail.com
 system.out.println("hello world");
@@ -61,6 +74,7 @@ TiagoPintoAlves
 stvtiago@gmail.com
 
 
+<<<<<<< HEAD
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 
@@ -68,6 +82,8 @@ var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 
+=======
+>>>>>>> 6797dd001b0fcc49aab2e3222f65f57970b7af93
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
@@ -108,13 +124,7 @@ System.out.println("Parabéns a todos!");
 
 
 
-MarvinSantos
-marvincenteno23@gmail.com
-// fat
-f = 1;
-if (f == 1){
-	System.out.print("f é 1")
-}
+
 
 =======
 angeloViana
@@ -123,7 +133,24 @@ if(error == true){
 System.out.println("You Shall not pass")
 }
 
+
 marcoskoch
 marcos_koch@hotmail.com	
 echo ("tendel");
+<<<<<<< HEAD
 >>>>>>> ec57f02568a994898a0f9011934d530fca4ed0ff
+=======
+
+>>>>>>> 6797dd001b0fcc49aab2e3222f65f57970b7af93
+
+
+
+
+
+MarvinSantos
+marvincenteno23@gmail.com
+// fat
+f = 1;
+if (f == 1){
+	System.out.print("f é 1")
+}
