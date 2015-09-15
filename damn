@@ -5,6 +5,13 @@ console.log(new Array() == false);
 
 
 
+
+williamcardozo
+willian-cardozo@hotmail.com 
+String erro = "eita";
+System.out.println(erro);
+
+
 OseiasODSR10
 oseias.rdgs@hotmail.com
 //string
@@ -36,6 +43,7 @@ for(int i = 0; i != 1; i++){
 System.out.println("não");
 }
 
+
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
@@ -50,6 +58,7 @@ for(int i=0;i<a.lenght();i++)
 TiagoPintoAlves
 stvtiago@gmail.com
 
+
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 MarvinSantos
@@ -59,6 +68,7 @@ f = 1;
 if (f == 1){
 	System.out.print("f é 1")
 }
+
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
@@ -84,4 +94,9 @@ document.write('Hello Crescer');
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
+
+
+WillianWerlang	
+willian_werlang@live.com
+alert("Algo Errado Não Está Certo.");
 
