@@ -93,3 +93,7 @@ System.out.println("You Shall not pass")
 marcoskoch
 marcos_koch@hotmail.com	
 echo ("tendel");
+
+ericgottschalk
+ericng04@hotmail.com
+while(true) { int *pInt = (int*)malloc(sizeof(int)); }
