@@ -1,4 +1,13 @@
-bernardobrezende
+﻿bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
+
+FelipeM920
+felipemoraes920@gmail.com
+//mascada infinita
+int mascada = 0;
+while(true)
+{
+	mascada++;
+}
