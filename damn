@@ -1,4 +1,4 @@
-bernardobrezende
+﻿bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
@@ -7,3 +7,10 @@ sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
 printf("Olá mundo");
+
+BrunoVerch
+bruno_verch@hotmail.com
+int crescer=1;
+if(crescer == 1){
+System.out.println("Parabéns Crescer!");
+}
