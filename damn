@@ -55,14 +55,6 @@ for(int i=0;i<a.lenght();i++)
 TiagoPintoAlves
 stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-=======
-<<<<<<< HEAD
-var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-
-
-var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-
-
 
 
 FelipeM920
@@ -77,15 +69,21 @@ while(true)
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
->>>>>>> 54d25f03499c8544ff7f14889e03bfea86accd49
->>>>>>> 56289d5f201da4e784c500e9275087b82b6f8810
->>>>>>> bb349152fb5a437a29eb6b8225889127ef84f1c7
->>>>>>> 5aa5e5fcc3dd8978a7de949b855aa837313e31ef
-emmanoelf
-emmanoel_95@hotmail.com
-System.out.println("Crescer 2/2015");
 
+WillianWerlang	
+willian_werlang@live.com
+alert("Algo Errado Não Está Certo.");
+
+BrunoVerch
+bruno_verch@hotmail.com
+int crescer=1;
+if(crescer == 1){
+System.out.println("Parabéns a todos!");
+}
+
+angeloViana
+angelojunior50@yahoo.com.br
+if(error == true){
+System.out.println("You Shall not pass")
+}
