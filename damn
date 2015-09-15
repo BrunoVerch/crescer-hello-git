@@ -97,6 +97,7 @@ var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 
+
 WillianWerlang	
 willian_werlang@live.com
 alert("Algo Errado Não Está Certo.");
@@ -107,5 +108,12 @@ bruno_verch@hotmail.com
 int crescer=1;
 if(crescer == 1){
 System.out.println("Parabéns a todos!");
+}
+
+
+angeloViana
+angelojunior50@yahoo.com.br
+if(error == true){
+System.out.println("You Shall not pass")
 }
 
