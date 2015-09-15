@@ -1,4 +1,13 @@
-bernardobrezende
+﻿bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
+
+danielempaz
+daniele.m.paz@outlook.com
+int animo = 1;
+if(animo > 0){
+	System.out.println("oi");
+}else 
+	System.out.println("tchau");
+}
