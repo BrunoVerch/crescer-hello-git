@@ -5,6 +5,22 @@ console.log(new Array() == false);
 
 
 
+JulioCROliveira
+julio31p@hotmail.com
+// codigo
+if (elfo.vida <= 0) {
+	System.out.println("Elfo está morto");
+} else {
+	System.out.println("Elfo ainda está vivo");
+}
+
+
+
+estervincensi
+ester.ines@gmail.com
+system.out.println("hello world");
+
+
 williamcardozo
 willian-cardozo@hotmail.com 
 String erro = "eita";
@@ -15,11 +31,13 @@ oseias.rdgs@hotmail.com
 //string
 String string = "string";
 
+
 maxrib
 maxoel.ribeiro@gmail.com
 //zás
 int c;
 for(c=0;c<8;c++){printf("pi ");}
+
 
 pablobrodt
 pablobrodt@gmail.com
@@ -54,8 +72,8 @@ for(int i=0;i<a.lenght();i++)
 
 TiagoPintoAlves
 stvtiago@gmail.com
-var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 FelipeM920
 felipemoraes920@gmail.com
@@ -70,10 +88,10 @@ iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
 
-
 WillianWerlang	
 willian_werlang@live.com
 alert("Algo Errado Não Está Certo.");
+
 
 BrunoVerch
 bruno_verch@hotmail.com
@@ -82,8 +100,27 @@ if(crescer == 1){
 System.out.println("Parabéns a todos!");
 }
 
+
 angeloViana
 angelojunior50@yahoo.com.br
 if(error == true){
 System.out.println("You Shall not pass")
 }
+
+
+danielempaz
+daniele.m.paz@outlook.com
+int animo = 1;
+if(animo > 0){
+	System.out.println("oi");
+}else 
+	System.out.println("tchau");
+}
+
+
+
+marcoskoch
+marcos_koch@hotmail.com	
+echo ("tendel");
+
+
