@@ -1,12 +1,34 @@
-bernardobrezende
+﻿bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
+
 
 williamcardozo
 willian-cardozo@hotmail.com 
 String erro = "eita";
 System.out.println(erro);
+
+maxrib
+maxoel.ribeiro@gmail.com
+//zás
+int c;
+for(c=0;c<8;c++){printf("pi ");}
+
+pablobrodt
+pablobrodt@gmail.com
+//Só depois de 6 filmes
+public String reduzQtdFlechas( String elfo ){
+	String retorno;
+	if ( elfo.equals( "Legolas" ) ){		
+		retorno = "Não foi possível reduzir as flechas de Legolas";
+	}else{
+		retorno = "As flechas foram reduzidas";
+	}
+return retorno;
+}
+
+
 
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
@@ -16,3 +38,9 @@ printf("Olá mundo");
 TiagoPintoAlves
 stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+iagodahlem
+iagodahlemlorensini@gmail.com
+document.write('Hello Crescer');
+
+
