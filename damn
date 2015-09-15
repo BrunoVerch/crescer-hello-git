@@ -156,18 +156,6 @@ maxoel.ribeiro@gmail.com
 int c;
 for(c=0;c<8;c++){printf("pi ");}
 
-pablobrodt
-pablobrodt@gmail.com
-//Só depois de 6 filmes
-public String reduzQtdFlechas( String elfo ){
-	String retorno;
-	if ( elfo.equals( "Legolas" ) ){		
-		retorno = "Não foi possível reduzir as flechas de Legolas";
-	}else{
-		retorno = "As flechas foram reduzidas";
-	}
-return retorno;
-}
 
 renanpvaz
 renanp.vaz@outlook.com	
