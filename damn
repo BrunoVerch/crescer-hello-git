@@ -73,10 +73,6 @@ var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 
 
-
-var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-
-
 FelipeM920
 felipemoraes920@gmail.com
 //mascada infinita
@@ -89,9 +85,6 @@ while(true)
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
-
-var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-
 
 
 
@@ -123,7 +116,13 @@ if(animo > 0){
 
 marcoskoch
 marcos_koch@hotmail.com	
+
 echo ("tendel");
+
+echo ("tendel");
+
+
+
 
 dodireis
 diogokings@gmail.com
