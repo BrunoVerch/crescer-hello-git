@@ -3,13 +3,14 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
+
 JulioCROliveira
 julio31p@hotmail.com
 // codigo
 if (elfo.vida <= 0) {
 	System.out.println("Elfo está morto");
 } else {
-	System.out.println("Elfo ainda não está vivo");
+	System.out.println("Elfo ainda está vivo");
 }
 
 estervincensi
