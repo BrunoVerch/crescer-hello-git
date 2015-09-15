@@ -11,3 +11,4 @@ printf("Olá mundo");
 TiagoPintoAlves
 stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
