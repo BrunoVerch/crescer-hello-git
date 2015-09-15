@@ -75,7 +75,5 @@ iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
 
-
-
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
