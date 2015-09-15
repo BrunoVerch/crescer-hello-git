@@ -3,6 +3,31 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
+maxrib
+maxoel.ribeiro@gmail.com
+//zás
+int c;
+for(c=0;c<8;c++){printf("pi ");}
+
+pablobrodt
+pablobrodt@gmail.com
+//Só depois de 6 filmes
+public String reduzQtdFlechas( String elfo ){
+	String retorno;
+	if ( elfo.equals( "Legolas" ) ){		
+		retorno = "Não foi possível reduzir as flechas de Legolas";
+	}else{
+		retorno = "As flechas foram reduzidas";
+	}
+return retorno;
+}
+
+renanpvaz
+renanp.vaz@outlook.com	
+for(int i = 0; i != 1; i++){
+System.out.println("não");
+}
+
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
@@ -10,8 +35,10 @@ printf("Olá mundo");
 
 TiagoPintoAlves
 stvtiago@gmail.com
+<<<<<<< HEAD
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
+<<<<<<< HEAD
 
 
 
@@ -23,3 +50,15 @@ while(true)
 {
 	mascada++;
 }
+=======
+iagodahlem
+iagodahlemlorensini@gmail.com
+document.write('Hello Crescer');
+=======
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+<<<<<<< HEAD
+
+=======
+>>>>>>> 54d25f03499c8544ff7f14889e03bfea86accd49
+>>>>>>> 56289d5f201da4e784c500e9275087b82b6f8810
+>>>>>>> bb349152fb5a437a29eb6b8225889127ef84f1c7
