@@ -3,8 +3,6 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
-
-
 JulioCROliveira
 julio31p@hotmail.com
 // codigo
@@ -13,8 +11,6 @@ if (elfo.vida <= 0) {
 } else {
 	System.out.println("Elfo ainda está vivo");
 }
-
-
 
 estervincensi
 ester.ines@gmail.com
@@ -100,13 +96,11 @@ if(crescer == 1){
 System.out.println("Parabéns a todos!");
 }
 
-
 angeloViana
 angelojunior50@yahoo.com.br
 if(error == true){
 System.out.println("You Shall not pass")
 }
-
 
 danielempaz
 daniele.m.paz@outlook.com
@@ -116,8 +110,6 @@ if(animo > 0){
 }else 
 	System.out.println("tchau");
 }
-
-
 
 marcoskoch
 marcos_koch@hotmail.com	
