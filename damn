@@ -69,8 +69,13 @@ for(int i=0;i<a.lenght();i++)
 
 TiagoPintoAlves
 stvtiago@gmail.com
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
 
 FelipeM920
 felipemoraes920@gmail.com
@@ -85,10 +90,19 @@ iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
 
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
+
 WillianWerlang	
 willian_werlang@live.com
 alert("Algo Errado Não Está Certo.");
-
 
 BrunoVerch
 bruno_verch@hotmail.com
@@ -114,7 +128,13 @@ if(animo > 0){
 
 marcoskoch
 marcos_koch@hotmail.com	
+
 echo ("tendel");
+
+echo ("tendel");
+
+
+
 
 dodireis
 diogokings@gmail.com
@@ -122,6 +142,9 @@ diogokings@gmail.com
 public String nome;
 nome = "Felipe Smith";
 
+
+
 gustavorborba
 gustavorobaski@hotmail.com
 cout<<"Hello World";
+
