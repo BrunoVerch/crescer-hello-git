@@ -49,6 +49,7 @@ public String reduzQtdFlechas( String elfo ){
 return retorno;
 }
 
+
 renanpvaz
 renanp.vaz@outlook.com	
 for(int i = 0; i != 1; i++){
@@ -61,11 +62,13 @@ sergio.bernardes@hotmail.com.br
 printf C
 printf("Olá mundo");
 
+
 Tefferson
 teffersonguterres@gmail.com
 int[] a = new int[2];
 for(int i=0;i<a.lenght();i++) 
    a[i] = i/2;
+
 
 TiagoPintoAlves
 stvtiago@gmail.com
@@ -81,9 +84,11 @@ while(true)
 	mascada++;
 }
 
+
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
+
 
 WillianWerlang	
 willian_werlang@live.com
@@ -97,11 +102,13 @@ if(crescer == 1){
 System.out.println("Parabéns a todos!");
 }
 
+
 angeloViana
 angelojunior50@yahoo.com.br
 if(error == true){
 System.out.println("You Shall not pass")
 }
+
 
 danielempaz
 daniele.m.paz@outlook.com
@@ -112,15 +119,18 @@ if(animo > 0){
 	System.out.println("tchau");
 }
 
+
 marcoskoch
 marcos_koch@hotmail.com	
 echo ("tendel");
+
 
 dodireis
 diogokings@gmail.com
 //Felipe Smith
 public String nome;
 nome = "Felipe Smith";
+
 
 gustavorborba
 gustavorobaski@hotmail.com
