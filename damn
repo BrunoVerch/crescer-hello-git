@@ -3,6 +3,18 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
+
+
+williamcardozo
+willian-cardozo@hotmail.com 
+String erro = "eita";
+System.out.println(erro);
+
+OseiasODSR10
+oseias.rdgs@hotmail.com
+//string
+String string = "string";
+
 maxrib
 maxoel.ribeiro@gmail.com
 //zás
@@ -28,6 +40,7 @@ for(int i = 0; i != 1; i++){
 System.out.println("não");
 }
 
+
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
@@ -43,6 +56,15 @@ TiagoPintoAlves
 stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
+<<<<<<< HEAD
+=======
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
+
+>>>>>>> acc9b615c4f643435ef4804d24955f2009207409
 FelipeM920
 felipemoraes920@gmail.com
 //mascada infinita
@@ -54,4 +76,11 @@ while(true)
 
 iagodahlem
 iagodahlemlorensini@gmail.com
+<<<<<<< HEAD
 document.write('Hello Crescer');
+=======
+document.write('Hello Crescer');
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+>>>>>>> acc9b615c4f643435ef4804d24955f2009207409
