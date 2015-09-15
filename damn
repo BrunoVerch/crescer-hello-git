@@ -1,4 +1,18 @@
-bernardobrezende
+﻿bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
+
+
+pablobrodt
+pablobrodt@gmail.com
+//Só depois de 6 filmes
+public String reduzQtdFlechas( String elfo ){
+	String retorno;
+	if ( elfo.equals( "Legolas" ) ){		
+		retorno = "Não foi possível reduzir as flechas de Legolas";
+	}else{
+		retorno = "As flechas foram reduzidas";
+	}
+return retorno;
+}
