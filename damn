@@ -2,3 +2,7 @@ bernardobrezende
 bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
+williamcardozo
+willian-cardozo@hotmail.com 
+String erro = "eita";
+System.out.println(erro);
