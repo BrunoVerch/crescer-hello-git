@@ -142,9 +142,9 @@ diogokings@gmail.com
 public String nome;
 nome = "Felipe Smith";
 
-<<<<<<< HEAD
-=======
+
+
 gustavorborba
 gustavorobaski@hotmail.com
 cout<<"Hello World";
->>>>>>> a34a9b8a34f4c2db26d8582dedac6897a7f29765
+
