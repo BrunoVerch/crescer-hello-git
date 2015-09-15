@@ -11,7 +11,7 @@ julio31p@hotmail.com
 if (elfo.vida <= 0) {
 	System.out.println("Elfo está morto");
 } else {
-	System.out.println("Elfo ainda não está vivo");
+	System.out.println("Elfo ainda está vivo");
 }
 
 
