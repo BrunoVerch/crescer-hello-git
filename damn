@@ -77,10 +77,8 @@ document.write('Hello Crescer');
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
-<<<<<<< HEAD
-=======
+
 WillianWerlang	
 willian_werlang@live.com
 alert("Algo Errado Não Está Certo.");
-=======
->>>>>>> acc9b615c4f643435ef4804d24955f2009207409
+
