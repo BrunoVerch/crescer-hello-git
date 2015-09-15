@@ -4,6 +4,12 @@ bernardobrezende@gmail.com
 console.log(new Array() == false);
 
 
+
+williamcardozo
+willian-cardozo@hotmail.com 
+String erro = "eita";
+System.out.println(erro);
+
 OseiasODSR10
 oseias.rdgs@hotmail.com
 //string
@@ -34,6 +40,7 @@ for(int i = 0; i != 1; i++){
 System.out.println("não");
 }
 
+
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
 printf C
@@ -47,9 +54,17 @@ for(int i=0;i<a.lenght();i++)
 
 TiagoPintoAlves
 stvtiago@gmail.com
+<<<<<<< HEAD
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
@@ -71,5 +86,14 @@ iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
 
+
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
+
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
 
