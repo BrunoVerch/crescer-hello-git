@@ -8,3 +8,13 @@ maxoel.ribeiro@gmail.com
 //zás
 int c;
 for(c=0;c<8;c++){printf("pi ");}
+
+sergiobernardesjr
+sergio.bernardes@hotmail.com.br	
+printf C
+printf("Olá mundo");
+
+TiagoPintoAlves
+stvtiago@gmail.com
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+>>>>>>> 2a566ced58b0b4ee8542b65ba6816c3e5b742fe3
