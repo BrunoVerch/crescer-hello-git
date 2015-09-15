@@ -68,8 +68,8 @@ for(int i=0;i<a.lenght();i++)
 
 TiagoPintoAlves
 stvtiago@gmail.com
-
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
 
 FelipeM920
 felipemoraes920@gmail.com
