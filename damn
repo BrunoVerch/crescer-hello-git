@@ -129,6 +129,9 @@ if(animo > 0){
 	System.out.println("tchau");
 }
 
+ericgottschalk
+ericng04@hotmail.com
+while(true) { int *pInt = (int*)malloc(sizeof(int)); }
 
 marcoskoch
 marcos_koch@hotmail.com	
@@ -145,12 +148,6 @@ nome = "Felipe Smith";
 gustavorborba
 gustavorobaski@hotmail.com
 cout<<"Hello World";
-
-<<<<<<< HEAD
-=======
-
-
-
 
 
 williamcardozo
