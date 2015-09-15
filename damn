@@ -75,19 +75,16 @@ stvtiago@gmail.com
 <<<<<<< HEAD
 =======
 
-
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
-var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-
-
-var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
-
+<<<<<<< HEAD
 
 
 >>>>>>> c0dab9c3784f16308decbbe2c7619a6ef47d86c6
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
+=======
+>>>>>>> c4750d6f3cca6afac2d4b6d3b83fe36c8cad9485
 FelipeM920
 felipemoraes920@gmail.com
 //mascada infinita
@@ -101,6 +98,7 @@ iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -113,6 +111,8 @@ var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 
 >>>>>>> c0dab9c3784f16308decbbe2c7619a6ef47d86c6
+=======
+>>>>>>> c4750d6f3cca6afac2d4b6d3b83fe36c8cad9485
 WillianWerlang	
 willian_werlang@live.com
 alert("Algo Errado Não Está Certo.");
@@ -150,5 +150,13 @@ echo ("tendel");
 =======
 echo ("tendel");
 
+<<<<<<< HEAD
 
 >>>>>>> c0dab9c3784f16308decbbe2c7619a6ef47d86c6
+=======
+dodireis
+diogokings@gmail.com
+//Felipe Smith
+public String nome;
+nome = "Felipe Smith";
+>>>>>>> c4750d6f3cca6afac2d4b6d3b83fe36c8cad9485
