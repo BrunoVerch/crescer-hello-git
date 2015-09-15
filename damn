@@ -3,6 +3,11 @@ bernardobrezende@gmail.com
 // omg isso é true :P
 console.log(new Array() == false);
 
+maxrib
+maxoel.ribeiro@gmail.com
+//zás
+int c;
+for(c=0;c<8;c++){printf("pi ");}
 
 pablobrodt
 pablobrodt@gmail.com
@@ -25,8 +30,12 @@ printf("Olá mundo");
 
 TiagoPintoAlves
 stvtiago@gmail.com
+<<<<<<< HEAD
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
+=======
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+>>>>>>> 54d25f03499c8544ff7f14889e03bfea86accd49
