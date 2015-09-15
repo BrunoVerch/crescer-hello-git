@@ -1,0 +1,4 @@
+bernardobrezende
+bernardobrezende@gmail.com
+// omg isso é true :P
+console.log(new Array() == false);
