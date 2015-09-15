@@ -22,6 +22,11 @@ public String reduzQtdFlechas( String elfo ){
 return retorno;
 }
 
+renanpvaz
+renanp.vaz@outlook.com	
+for(int i = 0; i != 1; i++){
+System.out.println("não");
+}
 
 sergiobernardesjr
 sergio.bernardes@hotmail.com.br	
@@ -36,4 +41,30 @@ for(int i=0;i<a.lenght();i++)
 
 TiagoPintoAlves
 stvtiago@gmail.com
+<<<<<<< HEAD
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+<<<<<<< HEAD
+
+
+
+FelipeM920
+felipemoraes920@gmail.com
+//mascada infinita
+int mascada = 0;
+while(true)
+{
+	mascada++;
+}
+=======
+iagodahlem
+iagodahlemlorensini@gmail.com
+document.write('Hello Crescer');
+=======
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+<<<<<<< HEAD
+
+=======
+>>>>>>> 54d25f03499c8544ff7f14889e03bfea86accd49
+>>>>>>> 56289d5f201da4e784c500e9275087b82b6f8810
+>>>>>>> bb349152fb5a437a29eb6b8225889127ef84f1c7
