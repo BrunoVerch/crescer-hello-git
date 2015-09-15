@@ -4,10 +4,16 @@ bernardobrezende@gmail.com
 console.log(new Array() == false);
 
 
+
 williamcardozo
 willian-cardozo@hotmail.com 
 String erro = "eita";
 System.out.println(erro);
+
+OseiasODSR10
+oseias.rdgs@hotmail.com
+//string
+String string = "string";
 
 maxrib
 maxoel.ribeiro@gmail.com
@@ -28,6 +34,11 @@ public String reduzQtdFlechas( String elfo ){
 return retorno;
 }
 
+renanpvaz
+renanp.vaz@outlook.com	
+for(int i = 0; i != 1; i++){
+System.out.println("não");
+}
 
 
 sergiobernardesjr
@@ -35,12 +46,37 @@ sergio.bernardes@hotmail.com.br
 printf C
 printf("Olá mundo");
 
+Tefferson
+teffersonguterres@gmail.com
+int[] a = new int[2];
+for(int i=0;i<a.lenght();i++) 
+   a[i] = i/2;
+
 TiagoPintoAlves
 stvtiago@gmail.com
 var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
+
+
+
+
+FelipeM920
+felipemoraes920@gmail.com
+//mascada infinita
+int mascada = 0;
+while(true)
+{
+	mascada++;
+}
+
 iagodahlem
 iagodahlemlorensini@gmail.com
 document.write('Hello Crescer');
+<<<<<<< HEAD
 
+
+
+var userChoice = prompt("Voce escolhe pedra, papel ou tesoura?");
 
