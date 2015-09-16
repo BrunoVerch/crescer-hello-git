@@ -35,11 +35,12 @@ public class Elfo{
 	//construtores
 	public Elfo(String nome){
 		this.nome=nome;
+                this.flechas=42;
 	}
 
 	public Elfo(String nome, int flechas){
 		this.nome=nome;
-		this.flechas=42;
+		this.flechas=flechas;
 	}
 
 
